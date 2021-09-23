@@ -1,1 +1,3 @@
 # dspg
+
+Kodluyoruz ödevleri.
